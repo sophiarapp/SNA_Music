@@ -1,0 +1,83 @@
+id,name,type,sort,ranking,points,gender,alive,genre
+brel,Breland,1,1,108,832,2,1,4
+dier,Dierks Bentley,1,1,109,831,2,1,8
+nate,Nate Smith,1,1,110,800,2,1,8
+natk,Nat King Cole,1,1,111,796,2,2,9
+step,Stephen Sanchez,1,1,112,794,2,1,1
+jvke,JVKE,1,1,113,785,2,1,1
+rodd,Roddy Ricch,1,1,116,745,2,1,4
+ingr,Ingrid Andress,1,1,117,740,1,1,8
+mars,Marshmello,1,8,118,736,2,1,7
+polo,Polo G,1,1,120,726,2,1,4
+carr,Carrie Underwood,1,1,121,713,1,1,8
+will,Willow Smith,1,1,122,705,1,1,1
+park,Parker McCollum,1,1,123,695,2,1,8
+khal,Khalid,1,1,124,688,2,1,6
+chri,Chris Stapleton,1,1,125,683,2,1,8
+andy,Andy Williams,1,1,126,680,2,2,1
+hitk,Hitkidd,1,8,127,679,2,1,4
+mari,Mariah Carey,1,1,128,671,1,1,1
+mare,Maren Morris,1,1,129,669,1,1,8
+jhay,Jhay Cortez,1,1,130,654,2,1,4
+bren,Brenda Lee,1,1,131,648,1,1,8
+d4vd,d4vd,1,1,132,640,2,1,1
+anxi,The Anxiety,1,2,135,638,4,1,1
+tyle,Tyler Cole,1,1,135,638,2,1,1
+bobb,Bobby Helms,1,1,137,629,2,2,8
+eric,Eric Church,1,1,138,624,2,1,8
+erne,ERNEST,1,1,142,610,2,1,8
+take,Takeoff,1,1,144,594,2,2,4
+gene,Gene Autry,1,1,145,593,2,2,8
+brent,Brent Faiyaz,1,1,146,588,2,1,6
+hals,Halsey,1,1,147,587,1,1,1
+lilu,Lil Uzi Vert,1,1,148,581,3,1,4
+blxs,Blxst,1,1,149,576,2,1,4
+burl,Burl Ives,1,1,150,572,2,2,1
+russ,Russell Dickerson,1,1,151,562,2,1,8
+quav,Quavo,1,1,153,552,2,1,4
+perr,Perry Como,1,1,154,542,2,2,1
+kell,Kelly Clarkson,1,1,156,519,1,1,1
+rile,Riley Green,1,1,157,513,2,1,8
+jose,José Feliciano,1,1,158,510,2,1,1
+avam,Ava Max,1,1,160,504,1,1,1
+,,,,,,,,
+atla,Atlantic Records,2,5,NA,NA,NA,NA,NA
+badr,Bad Realm Records,2,5,NA,NA,NA,NA,NA
+capi,Capitol Records,2,4,NA,NA,NA,NA,NA
+univ,Universal Music Group,2,3,NA,NA,NA,NA,NA
+capina,Capitol Records Nashville,2,4,NA,NA,NA,NA,NA
+univna,Universal Music Group Nashville,2,3,NA,NA,NA,NA,NA
+word,Word Records,2,5,NA,NA,NA,NA,NA
+warn,Warner Records,2,4,NA,NA,NA,NA,NA
+sonyna,Sony Music Nashville,2,4,NA,NA,NA,NA,NA
+sony,Sony Music Group,2,3,NA,NA,NA,NA,NA
+repu,Republic Records,2,4,NA,NA,NA,NA,NA
+awal,AWAL,2,7,NA,NA,NA,NA,NA
+warnna,Warner Music Nashville,2,4,NA,NA,NA,NA,NA
+joyt,Joytime Collective,2,6,NA,NA,NA,NA,NA
+colu,Columbia Records,2,4,NA,NA,NA,NA,NA
+rocn,Roc Nation,2,5,NA,NA,NA,NA,NA
+msft,MSFTS Music,2,6,NA,NA,NA,NA,NA
+mcan,MCA Nashville Records,2,4,NA,NA,NA,NA,NA
+righ,Right Hand Music Group,2,5,NA,NA,NA,NA,NA
+rcar,RCA Records,2,4,NA,NA,NA,NA,NA
+barn,Barnaby Records,2,5,NA,NA,NA,NA,NA
+camp,Camp South Records,2,6,NA,NA,NA,NA,NA
+epic,Epic Records,2,4,NA,NA,NA,NA,NA
+univla,Universal Music Latin Entertainment,2,4,NA,NA,NA,NA,NA
+decc,Decca Records,2,4,NA,NA,NA,NA,NA
+inte,Interscope Records,2,4,NA,NA,NA,NA,NA
+dark,Darkroom,2,4,NA,NA,NA,NA,NA
+geff,Geffen Records,2,4,NA,NA,NA,NA,NA
+bigl,Big Loud,2,5,NA,NA,NA,NA,NA
+quali,Quality Control Music,2,5,NA,NA,NA,NA,NA
+moto,Motown Records,2,4,NA,NA,NA,NA,NA
+lost,Lost Kids,2,6,NA,NA,NA,NA,NA
+redb,Red Bull Records,2,5,NA,NA,NA,NA,NA
+evgl,Evgle,2,5,NA,NA,NA,NA,NA
+coll,Collectables Records,2,5,NA,NA,NA,NA,NA
+trip,Triple Tigers,2,4,NA,NA,NA,NA,NA
+thir,Thirty Tigers,2,7,MA,NA,NA,NA,NA
+rcav,RCA Victor,2,4,NA,NA,NA,NA,NA
+bigm,Big Machine Records,2,5,NA,NA,NA,NA,NA
+anth,Anthem Records,2,5,NA,NA,NA,NA,NA
